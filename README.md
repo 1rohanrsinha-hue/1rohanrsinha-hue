@@ -7,7 +7,7 @@ Applied AI and systems engineer. Final-year IT at MIT Manipal. Based in Abu Dhab
 
 ### Experience
 
-**Software Engineer Intern — Sarus Inc.** · 2026 – present
+**Software Engineer Intern — Sarus Inc.** · June 2026 – present
 
 Sole engineer on **Splendid Sudoku**, a cross-platform Flutter app shipping to iOS
 and Android. Built the puzzle engine from scratch as a standalone Dart package —
