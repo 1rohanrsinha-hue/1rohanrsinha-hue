@@ -2,7 +2,19 @@
 
 Applied AI and systems engineer. Final-year IT at MIT Manipal. Based in Abu Dhabi.
 
-I build things that run in real time and things that ship.
+
+---
+
+### Experience
+
+**Software Engineer Intern — Sarus Inc.** · 2026 – present
+
+Sole engineer on **Splendid Sudoku**, a cross-platform Flutter app shipping to iOS
+and Android. Built the puzzle engine from scratch as a standalone Dart package —
+constraint solver, generator, and a difficulty grader that classifies puzzles by
+the solving techniques they actually require. Firebase auth and Firestore
+persistence, offline-first with resumable game state, and a pre-generation pool
+that keeps puzzle generation off the critical path.
 
 ---
 
@@ -14,8 +26,8 @@ VAD and LiveKit WebRTC transport, self-hosted on an RTX 3090. Moving TTS to CUDA
 ONNX Runtime took synthesis from ~15s to ~200ms.
 
 **[Credit Risk Prediction](link)** — Explainable ensemble framework for credit
-default prediction, with a focus on decision-threshold selection under class
-imbalance. First-authored paper submitted to IEEE INDISCON 2026.
+default prediction, focused on decision-threshold selection under class imbalance.
+First-authored paper submitted to IEEE INDISCON 2026.
 
 **[CareSync](link)** — Full-stack healthcare platform: authentication, doctor
 discovery, appointment booking and scheduling.
