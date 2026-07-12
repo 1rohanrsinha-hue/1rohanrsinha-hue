@@ -1,16 +1,34 @@
-## Hi there 👋
+## Rohan Sinha
 
-<!--
-**1rohanrsinha-hue/1rohanrsinha-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI and systems engineer. Final-year IT at MIT Manipal. Based in Abu Dhabi.
 
-Here are some ideas to get you started:
+I build things that run in real time and things that ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Selected work
+
+**[Pipecat Voice Agent](link)** — Real-time conversational voice agent, sub-800ms
+end-to-end. FastWhisper ASR → Llama 3.2 via Ollama → Kokoro ONNX TTS, with Silero
+VAD and LiveKit WebRTC transport, self-hosted on an RTX 3090. Moving TTS to CUDA
+ONNX Runtime took synthesis from ~15s to ~200ms.
+
+**[Credit Risk Prediction](link)** — Explainable ensemble framework for credit
+default prediction, with a focus on decision-threshold selection under class
+imbalance. First-authored paper submitted to IEEE INDISCON 2026.
+
+**[CareSync](link)** — Full-stack healthcare platform: authentication, doctor
+discovery, appointment booking and scheduling.
+
+**[ExpenseLens](link)** — Flutter + Firebase expense tracker with real-time
+transactions and analytics.
+
+---
+
+### Working with
+
+Python · Dart / Flutter · PyTorch · ONNX Runtime · CUDA · Firebase · FastAPI
+
+---
+
+📍 Abu Dhabi, UAE · [LinkedIn](https://www.linkedin.com/in/rohan-sinha-b868b8403) · 1.rohanrsinha@gmail.com
