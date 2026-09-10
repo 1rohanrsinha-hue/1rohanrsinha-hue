@@ -27,7 +27,7 @@ ONNX Runtime took synthesis from ~15s to ~200ms.
 
 **[Credit Risk Prediction](link)** — Explainable ensemble framework for credit
 default prediction, focused on decision-threshold selection under class imbalance.
-First-authored paper submitted to IEEE INDISCON 2026.
+First-authored paper accepted at IEEE INDISCON 2026.
 
 **[CareSync](link)** — Full-stack healthcare platform: authentication, doctor
 discovery, appointment booking and scheduling.
