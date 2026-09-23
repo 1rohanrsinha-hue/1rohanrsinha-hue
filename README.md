@@ -7,7 +7,7 @@ Applied AI and systems engineer. Final-year IT at MIT Manipal. Based in Abu Dhab
 
 ### Experience
 
-**Software Engineer Intern — Sarus Inc.** · June 2026 – present
+**Software Engineer Intern — Sarus Inc.** · June 2026 – September 2026
 
 Sole engineer on **Splendid Sudoku**, a cross-platform Flutter app shipping to iOS
 and Android. Built the puzzle engine from scratch as a standalone Dart package —
@@ -27,7 +27,7 @@ ONNX Runtime took synthesis from ~15s to ~200ms.
 
 **[Credit Risk Prediction](link)** — Explainable ensemble framework for credit
 default prediction, focused on decision-threshold selection under class imbalance.
-First-authored paper accepted at IEEE INDISCON 2026.
+First-authored paper accepted and presented at IEEE INDISCON 2026.
 
 **[CareSync](link)** — Full-stack healthcare platform: authentication, doctor
 discovery, appointment booking and scheduling.
